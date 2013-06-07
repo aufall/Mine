@@ -666,7 +666,7 @@ var nga_plug_plugs = [
 },{
 	id:"mojo_for_lintx",
 	title:"表情-LinTx",
-	src:"http://localhost/mine/firefox/js/nga_mojo_for_lintx.js",
+	src:"https://raw.github.com/player2135/Mine/Firefox/Firefox/js/nga_mojo_for_lintx.js",
 	charset:"UTF-8",
 	check:true
 },{
