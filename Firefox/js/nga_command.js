@@ -660,7 +660,7 @@ var nga_plug_plugs = [
 },{
 	id:"ngacn_ui_mojo",
 	title:"表情-虚空之魂",
-	src:"http://localhost/mine/firefox/js/ngacn_ui_mojo.js",
+	src:"https://raw.github.com/player2135/Mine/Firefox/Firefox/js/ngacn_ui_mojo.js",
 	charset:"UTF-8",
 	check:true
 },{
@@ -679,7 +679,7 @@ var nga_plug_plugs = [
 },{
 	id:"varietynga",
 	title:"百变NGA",
-	src:"http://localhost/mine/firefox/js/nga_varietynga.js",
+	src:"https://raw.github.com/player2135/Mine/Firefox/Firefox/js/nga_varietynga.js",
 	testsrc:"http://ngaplug.googlecode.com/svn/ngaplug/varietynga.test.js",
 	charset:"UTF-8",
 	check:true
