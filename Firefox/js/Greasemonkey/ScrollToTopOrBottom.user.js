@@ -19,7 +19,7 @@ function ScrollTopAndBottom()
 		img.style.left="935px";
 		img.style.bottom="64px";
 		img.style.fontSize="16px";
-		img.src="https://my-web-host.googlecode.com/svn/trunk/img/toTop.png";
+		img.src="https://raw.github.com/player2135/Mine/Firefox/Firefox/img/toTop.png";
 		document.body.appendChild(img);
 	}
 	function ScrollBottom(){
@@ -33,7 +33,7 @@ function ScrollTopAndBottom()
 		img.style.left="935px";
 		img.style.bottom="0px";
 		img.style.fontSize="16px";
-		img.src="https://my-web-host.googlecode.com/svn/trunk/img/toBottom.png";
+		img.src="https://raw.github.com/player2135/Mine/Firefox/Firefox/img/toBottom.png";
 		document.body.appendChild(img);
 	}
 	if(scrollMaxY!=0)
