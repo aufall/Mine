@@ -4,6 +4,7 @@
 // @include     http://bbs.ngacn.cc/read.php*
 // @version     1
 // ==/UserScript==
+//lq edit test
 function FindSomebody(name,color,bgColor)
 {
 	function FindAuthor(name,color,bgColor)
