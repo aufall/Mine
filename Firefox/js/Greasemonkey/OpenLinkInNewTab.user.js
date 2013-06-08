@@ -1,4 +1,4 @@
-// ==UserScript==
+﻿// ==UserScript==
 // @name        列表新窗口打开
 // @namespace   nga
 // @include     http://bbs.ngacn.cc/thread.php*
