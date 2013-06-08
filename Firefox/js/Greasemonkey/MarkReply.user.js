@@ -1,4 +1,4 @@
-// ==UserScript==
+﻿// ==UserScript==
 // @name        标记回复楼层
 // @namespace   nga
 // @include     http://bbs.ngacn.cc/read.php*
